@@ -1,0 +1,13 @@
+{
+  "name": "battleship-node",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.1",
+    "colors": "^1.1.2"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "RUN TESTS HERE"
+  }
+}
